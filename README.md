@@ -11,4 +11,5 @@
 #### Commit 메시지 규칙
 
 예1) `Leetcode 238 - solved` : Leetcode 문제 238번 해결
+
 예2) `BOJ 94857 - failed` : 백준 문제 94857번 미해결
