@@ -2,14 +2,14 @@
 
 #### 참여방법
 
-1. 포크
+1. 포크 & Clone
 2. 본인 이름으로 된 디렉터리 생성
-3. 문제풀이 파일을 디렉터리 내에 생성
-4. Commit
-5. Pull Request
+3. 본인이름/문제풀이사이트/문제번호.py
+4. 포크한 레포에 push
+5. 원래 레포에 Pull Request
 
 #### Commit 메시지 규칙
 
-예1) `Leetcode 238 - solved` : Leetcode 문제 238번 해결
+예1) `LeetCode 238 - solved` : LeetCode 문제 238번 해결
 
 예2) `BOJ 94857 - failed` : 백준 문제 94857번 미해결
