@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ilhanyu/Documents/algorithm/Algorithm_study/Ilhan/DataStructure/output/Fibonacci'
+relocations:     []
+...
